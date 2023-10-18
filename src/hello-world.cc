@@ -15,5 +15,6 @@ int main(int argc, char** argv) {
   }
   std::cout << get_greet(who) << std::endl;
   print_localtime();
+  
   return 0;
 }
